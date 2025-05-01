@@ -1,10 +1,19 @@
 *{
     margin: 0;
-    padding: 2px;
+    padding: 0;
     box-sizing: border-box;
+    align-items: center;
+}
+
+html{
+font-size: 10px;
+font-family: monospace;
+align-items: center;
 }
 
 body{
+    margin: auto;
     width: 100%;
-    max-width: 400px ;
+    max-width: 400px;
+    align-items: center;
 }
